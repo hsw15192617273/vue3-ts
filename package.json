@@ -1,0 +1,20 @@
+{
+  "name": "vue3-ts",
+  "displayName": "vue3-ts",
+  "description": "vue3 and typescript awesome extension pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "wejectchan.vue3-snippets-for-vscode",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "maggie.eslint-rules-zh-plugin"
+  ]
+}
