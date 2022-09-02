@@ -2,11 +2,11 @@
   "name": "vue3-ts",
   "displayName": "vue3-ts",
   "description": "vue3 and typescript awesome extension pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "shawnhan",
   "repository": "https://github.com/hsw15192617273/vue3-ts",
   "engines": {
-    "vscode": "^1.71.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Extension Packs"
